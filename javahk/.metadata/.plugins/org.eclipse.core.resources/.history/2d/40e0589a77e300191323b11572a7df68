@@ -1,0 +1,14 @@
+package test;
+
+public class test_p31 {
+	public static void main(String[] args)
+	{
+		System.out.println("2+2等於:"+(2+2));
+		System.out.println("5+4等於:"+(5+4));
+		
+		int num1=3;
+		int num2=4;
+		int sum=num1+num2;
+	}
+
+}
